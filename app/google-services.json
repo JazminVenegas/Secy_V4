@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975841191162",
+    "project_id": "secy-b9ef5",
+    "storage_bucket": "secy-b9ef5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975841191162:android:c071a73602b1d91c609543",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1177QhiryWt2zezSm3uz8tOW_w524PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
